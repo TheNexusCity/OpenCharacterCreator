@@ -18,7 +18,7 @@ yarn install
 yarn run dev
 ```
 
-# Web3 Integration
+### Optional Web3 Integration
 OpenCharacterCreator offers a couple of web3 options (disabled by default).
 
 You can enable Ethereum + Pinata or Internet Computer support by enabling the flags in .env
