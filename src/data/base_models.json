@@ -2,8 +2,8 @@
   {
     "id": "1",
     "name": "Male",
-    "file": "https://nolimitcrypto.s3.us-west-2.amazonaws.com/base_models_compressed/Male_Muscular.vrm",
-    "thumbnail": "https://nolimitcrypto.s3.us-west-2.amazonaws.com/base_models_compressed/Male_Muscular.png",
+    "file": "storageapi.fleek.co/7f654f2c-31b3-4da3-9dcb-b6ac0f0bf31b-bucket/Male_Muscular.vrm",
+    "thumbnail": "storageapi.fleek.co/7f654f2c-31b3-4da3-9dcb-b6ac0f0bf31b-bucket/Male_Muscular.png",
     "format": "vrm",
     "bodyTargets": [
       "CC_Base_Body_1",

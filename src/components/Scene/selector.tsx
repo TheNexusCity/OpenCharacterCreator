@@ -76,6 +76,10 @@ export default function Selector() {
         'tops',
         'legs',
         'shoes'
+        'arms',
+        'face',
+        'body',
+        'accessory',
       ]
       if(!loaded){
         setTempInfo('2');
@@ -252,7 +256,7 @@ export default function Selector() {
       <Stack
         direction="row"
         spacing={2}
-        justifyContent="left"
+        justifyContent="center"
         alignItems="left"
         divider={<Divider orientation="vertical" flexItem />}
       >
